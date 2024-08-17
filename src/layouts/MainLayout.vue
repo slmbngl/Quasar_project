@@ -1,30 +1,7 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <q-header elevated>
-      <q-toolbar>
-        <q-btn
-          flat
-          dense
-          round
-          icon="menu"
-          aria-label="Menu"
-          @click="toggleLeftDrawer"
-        />
+    <q-header elevated> </q-header>
 
-        <q-toolbar-title> Bonanza </q-toolbar-title>
-      </q-toolbar>
-    </q-header>
-    <q-drawer v-model="leftDrawerOpen" show-if-above bordered>
-      <q-list>
-        <q-item-label header> Essential Links </q-item-label>
-
-        <component-link
-          v-for="link in componentLinks"
-          :key="link.title"
-          v-bind="link"
-        />
-      </q-list>
-    </q-drawer>
     <q-page-container>
       <router-view />
     </q-page-container>
@@ -85,6 +62,12 @@ const componentLinks: ComponentLinkProps[] = [
     caption: 'Last version of this project',
     icon: 'favorite',
     link: '/comp8',
+  },
+  {
+    title: 'Cart Page',
+    caption: 'Last version of this project',
+    icon: 'favorite',
+    link: '/comp9',
   },
 ];
 

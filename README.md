@@ -1,6 +1,6 @@
-# huseyin app (webdersiprojesi)
+# Quasar App (quasar-project)
 
-bu proje ders için başlangıç gösterir
+A Quasar Project
 
 ## Install the dependencies
 ```bash

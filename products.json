@@ -1,0 +1,44 @@
+[
+  {
+    "urunId": 1,
+    "urun_isim": "AES Wholesale Lot Fila Full Zip Jacket Women’s Size Medium Brown Longeer Bla Bla Bla Bla Bla",
+    "fiyat": "$15.88",
+    "urun_resim": "public/img/pro2.jpg",
+    "category": "Weather Stations"
+  },
+  {
+    "urunId": 2,
+    "urun_isim": "Mighty Morphin Power Fila Full Zip Jacket Women’s Size Medium Brown Longeer",
+    "fiyat": "$1.97",
+    "urun_resim": "public/img/Ekran görüntüsü 2024-01-23 161548.jpg",
+    "category": "Trading Card Singles"
+  },
+  {
+    "urunId": 3,
+    "urun_isim": "Womens Star Print Hoodie Sweatshirt - Grayson Threads Green Size Largeee Bla Bla",
+    "fiyat": "$1.97",
+    "urun_resim": "src/assets/images/pro4.jpg",
+    "category": "Hoodies & Sweatshirts"
+  },
+  {
+    "urunId": 4,
+    "urun_isim": "Fonda Orange Green Autumn Fall Leaves Halloween Tablec Fila Full Zip Jacket",
+    "fiyat": "$1.97",
+    "urun_resim": "src/assets/images/pro5.jpg",
+    "category": "Trading Card Singles"
+  },
+  {
+    "urunId": 5,
+    "urun_isim": "AES Wholesale Lot Fila Full Zip Jacket Women’s Size Medium Brown Longsasass Bla Bla Bla",
+    "fiyat": "$15.88",
+    "urun_resim": "src/assets/images/pro6.jpg",
+    "category": "Weather Stations"
+  },
+  {
+    "urunId": 6,
+    "urun_isim": "Mighty Morphin Power Fila Full Zip Jacket Women’s Size Medium Brown Longeeer",
+    "fiyat": "$15.88",
+    "urun_resim": "src/assets/images/pro7.jpg",
+    "category": "Trading Card Singles"
+  }
+]

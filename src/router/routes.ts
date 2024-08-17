@@ -35,9 +35,13 @@ const routes: RouteRecordRaw[] = [
       },
       {
         path: '/comp8',
-        component: () => import('components/TheNavbarOne.vue'),
+        component: () => import('pages/Seeddata.vue'),
       },
-      { path: '', component: () => import('components/TheNavbarOne.vue') },
+      {
+        path: '/comp9',
+        component: () => import('pages/TheCart.vue'),
+      },
+      { path: '', component: () => import('pages/TheNavbarOne.vue') },
       { path: '/login', component: () => import('components/TheLogin.vue') },
     ],
   },

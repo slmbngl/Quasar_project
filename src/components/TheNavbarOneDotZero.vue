@@ -37,7 +37,7 @@
     <q-space></q-space>
     <q-item class="col-md-3">
       <q-space></q-space>
-      <q-btn square color="primary" icon="shopping_cart" />
+      <q-btn to="/comp9" square color="primary" icon="shopping_cart" />
     </q-item>
   </q-toolbar>
 </template>
