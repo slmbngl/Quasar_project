@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Quasar App (quasar-project)
 
 A Quasar Project
 
+=======
+>>>>>>> fec240512bb9ba96e1bde7143059a60b637df353
 ## Install the dependencies
 ```bash
 yarn
