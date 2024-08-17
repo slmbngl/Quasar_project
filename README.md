@@ -1,7 +1,3 @@
-# huseyin app (webdersiprojesi)
-
-bu proje ders için başlangıç gösterir
-
 ## Install the dependencies
 ```bash
 yarn
